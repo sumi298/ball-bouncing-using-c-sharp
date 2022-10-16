@@ -1,0 +1,11 @@
+C:\Users\Sumi\source\repos\BounchingBall\BounchingBall\obj\Debug\BounchingBall.csproj.AssemblyReference.cache
+C:\Users\Sumi\source\repos\BounchingBall\BounchingBall\obj\Debug\BounchingBall.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sumi\source\repos\BounchingBall\BounchingBall\obj\Debug\BounchingBall.Form1.resources
+C:\Users\Sumi\source\repos\BounchingBall\BounchingBall\obj\Debug\BounchingBall.Properties.Resources.resources
+C:\Users\Sumi\source\repos\BounchingBall\BounchingBall\obj\Debug\BounchingBall.csproj.GenerateResource.cache
+C:\Users\Sumi\source\repos\BounchingBall\BounchingBall\obj\Debug\BounchingBall.csproj.CoreCompileInputs.cache
+C:\Users\Sumi\source\repos\BounchingBall\BounchingBall\bin\Debug\BounchingBall.exe.config
+C:\Users\Sumi\source\repos\BounchingBall\BounchingBall\bin\Debug\BounchingBall.exe
+C:\Users\Sumi\source\repos\BounchingBall\BounchingBall\bin\Debug\BounchingBall.pdb
+C:\Users\Sumi\source\repos\BounchingBall\BounchingBall\obj\Debug\BounchingBall.exe
+C:\Users\Sumi\source\repos\BounchingBall\BounchingBall\obj\Debug\BounchingBall.pdb
